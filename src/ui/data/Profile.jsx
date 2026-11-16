@@ -5,7 +5,7 @@ export const profile = {
   verified: true,
   title: 'Full-Stack Developer',
   tagline: 'Building the next big thing.',
-  avatar: '/Abiola Image.jpeg',
+  avatar: '/abiola.png',
 
   github: 'https://github.com/Biocodz-98',
 
