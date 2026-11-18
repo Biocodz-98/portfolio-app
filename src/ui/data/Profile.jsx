@@ -15,7 +15,7 @@ export const profile = {
   },
 
   cv: {
-    href: '/my-cv.pdf',
+    href: '/abiola-fabikun-cv.pdf',
     filename: 'Abiola Fabikun-CV.pdf',
   },
 
