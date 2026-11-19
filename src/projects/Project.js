@@ -8,7 +8,7 @@ export const projects = [
     name: 'OneHealth-Imani',
     featured: true,
     icon: '/icon.png',
-    banner: '/screenshot 6.png',
+    banner: '/imani-snapshot.png',
     tags: ['Healthcare', 'Medications'],
     tagline: 'You Deserve More Than Just a Pump — You Deserve Freedom.',
     description:
